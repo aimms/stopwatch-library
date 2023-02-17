@@ -1,8 +1,11 @@
 # stopwatch-library
 
 **Mirrored in:** https://github.com/aimms/stopwatch-library
+
 **How-to:** https://how-to.aimms.com/Articles/574/574-stopwatch-library.html
+
 **Community:** https://community.aimms.com/aimms-developer-12/stopwatch-library-1426
+
 
 ## Introduction
 
