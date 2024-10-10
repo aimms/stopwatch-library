@@ -1,1 +1,3 @@
 * The timestamps in this namechange file are stored in Coordinated universal time (UTC).
+"fnc_now" "plet::fnc_now" "2024-10-04 09:00:44"
+"plet::fnc_now" "stopwatch::fnc_now" "2024-10-04 09:13:57"
